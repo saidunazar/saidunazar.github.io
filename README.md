@@ -4,6 +4,8 @@
 
 Passionate front end developer with 6+ years of professional experience building efficient and scalable web applications. Proven ability to work in fast paced start up and corporate environments. Fueled by passion, I constantly focus to excel and upskill in my work.
 
+---
+
 ## Skills
 
 <p align='left'>
@@ -18,6 +20,12 @@ Passionate front end developer with 6+ years of professional experience building
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node" width="40" height="auto"/>
 </p>
 
+---
+
 ## Experience
 
+### CGI | Consultant
 
+### Allianz | Senior Software Engineer
+
+### Freelance | Web Developer
