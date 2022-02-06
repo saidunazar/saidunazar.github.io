@@ -1,12 +1,12 @@
 
-### Portfolio
+## Portfolio
 > Always up for a challenge!
 
 Passionate front end developer with 6+ years of professional experience building efficient and scalable web applications. Proven ability to work in fast paced start up and corporate environments. Fueled by passion, I constantly focus to excel and upskill in my work.
 
 ---
 
-### Skills
+## Skills
 
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="auto" height="40">
@@ -22,7 +22,7 @@ Passionate front end developer with 6+ years of professional experience building
 
 ---
 
-### Experience
+## Experience
 
 #### CGI | Consultant
 
@@ -39,13 +39,13 @@ _Helped digital transformation of SMEs by providing various web/digital solution
 
 ---
 
-### Education
+## Education
 
 #### University of Kerala - B Tech in Information Technology
 
 ---
 
-### Interests
+## Interests
 
 Photography | Travelling  | Netflix
 
