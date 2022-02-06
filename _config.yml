@@ -1,4 +1,4 @@
 title: <p align="center">Saidu Nazar</p>
-logo: "/profile.png?raw=true"
+logo: <span align="center">"/profile.png?raw=true"</span>
 description: <br><p align="center">Frontend Engineer | Learner</p>
 theme: jekyll-theme-minimal
