@@ -47,5 +47,5 @@ _Helped digital transformation of SMEs by providing various web/digital solution
 
 ## Interests
 
-Photography | Travelling  | Netflix
+> Photography | Travelling  | Netflix
 
