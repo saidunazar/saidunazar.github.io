@@ -18,7 +18,6 @@ Passionate front end developer with 6+ years of professional experience building
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass" width="40" height="auto"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="npm" width="40" height="auto"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node" width="40" height="auto"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_jasmine.svg" alt="jasmine" width="auto" height="30"/>
 </p>
 
 ---
@@ -49,3 +48,5 @@ Helped digital transformation of SMEs by providing various web/digital solutions
 ## Interests
 
 Photography | Travelling  | Netflix
+
+
