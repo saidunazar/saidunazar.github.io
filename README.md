@@ -26,7 +26,7 @@ _I'm a passionate front end developer with 6+ years of professional experience b
 
 #### CGI | Consultant
 
-> Leading and overseeing UI development for AWS payments pod. Analysis, design and development of current and new react components. Working alongside DevOps engineers to setup CI/CD pipeline. Code reviews and mentoring of junior developers for the team.
+> Leading and overseeing UI development for AWS payments pod. Analyse, design and development of existing and new react components. Working alongside DevOps engineers to setup CI/CD pipeline. Code reviews and mentoring of junior developers for the team.
 
 
 #### Allianz | Senior Software Engineer
