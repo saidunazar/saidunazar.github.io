@@ -49,3 +49,5 @@ _I'm a passionate front end developer with 6+ years of professional experience b
 
 Photography | Travelling  | Cooking | Netflix
 
+##### Got an innovative idea? <a href="mailto:saidunazar92@gmail.com">Let's discuss!</a>
+
