@@ -18,6 +18,7 @@ Passionate front end developer with 6+ years of professional experience building
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass" width="40" height="auto"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="npm" width="40" height="auto"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node" width="40" height="auto"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_jasmine.svg" alt="jasmine" width="auto" height="30"/>
 </p>
 
 ---
@@ -26,26 +27,16 @@ Passionate front end developer with 6+ years of professional experience building
 
 ### CGI | Consultant
 
-Leading and overseeing UI development of payments team
-Analysis, design and development of current and new react components 
-Worked alongside DevOps engineers to setup CI/CD pipeline
-Done code reviews and mentored junior developers to the team
+Leading and overseeing UI development of payments team. Analysis, design and development of current and new react components. Worked alongside DevOps engineers to setup CI/CD pipeline. Code reviews and mentoring junior developers to the team.
 
 
 ### Allianz | Senior Software Engineer
 
-Developed UI features, functionalities and capabilities using Angular
-Worked closely with designers to create style sheets using HTML and CSS (SCSS)
-Collaborated with Backend team for the development of API
-Covered unit testing using Karma and Jasmine
-Performed peer to peer code reviews and developer testing to meet QA targets
+Worked with digital services team to build UI features, functionalities and capabilities using Angular. Collaborated with Backend team for the development of API. Performed peer to peer code reviews and developer testing to meet QA targets.
 
 ### Freelance | Web Developer
 
-Helped digital transformation of SMEs by providing various web/digital solutions
-Worked closely with clients to gather requirements and analyze there technical feasibility
-Negotiated with clients, hosting providers and vendors to keep projects on track
-Established hosting for each projects and ensured successful deployment for the clients
+Helped digital transformation of SMEs by providing various web/digital solutions. Worked closely with clients to gather requirements and analyze there technical feasibility. Negotiated with clients, hosting providers and vendors to keep projects on track. Established hosting for each projects and ensured successful deployment for the clients.
 
 ---
 
@@ -54,3 +45,7 @@ Established hosting for each projects and ensured successful deployment for the 
 ### University of Kerala - B Tech in Information Technology
 
 ---
+
+## Interests
+
+Photography | Travelling  | Netflix
