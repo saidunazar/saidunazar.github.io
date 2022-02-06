@@ -1,6 +1,6 @@
 
 ## Portfolio
-#### < Always up for a challenge /> :Alien Monster:
+#### { Always up for a challenge }
 
 Passionate front end developer with 6+ years of professional experience building efficient and scalable web applications. Proven ability to work in fast paced start up and corporate environments. Fueled by passion, I constantly focus to excel and upskill in my work.
 
