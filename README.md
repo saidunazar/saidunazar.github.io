@@ -31,11 +31,11 @@ _I'm a passionate front end developer with 6+ years of professional experience b
 
 #### Allianz | Senior Software Engineer
 
-> Worked with digital services team and created UI features, functionalities and capabilities using Angular. Collaborated with Backend team for the development of API. Performed peer to peer code reviews and developer testing to meet QA targets.
+> Worked with digital services team to create UI features, functionalities and capabilities using Angular. Collaborated with Backend team for the development of API. Performed peer to peer code reviews and developer testing to meet QA targets.
 
 #### Freelance | Web Developer
 
-> Helped digital transformation of SMEs by providing various web/digital solutions. Worked closely with the clients to gather requirements and analysed there technical feasibility. Established hosting for each projects and ensured successful deployment for the clients.
+> Helped digital transformation of SMEs by providing various web/digital solutions. Worked closely with the clients to gather requirements and to keep project on track. Established hosting for each projects and ensured successful deployment for the clients.
 
 ---
 
