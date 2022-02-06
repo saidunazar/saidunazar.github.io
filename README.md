@@ -1,12 +1,12 @@
 
-## Portfolio
+### Portfolio
 > Always up for a challenge!
 
 Passionate front end developer with 6+ years of professional experience building efficient and scalable web applications. Proven ability to work in fast paced start up and corporate environments. Fueled by passion, I constantly focus to excel and upskill in my work.
 
 ---
 
-## Skills
+### Skills
 
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="auto" height="40">
@@ -22,31 +22,30 @@ Passionate front end developer with 6+ years of professional experience building
 
 ---
 
-## Experience
+### Experience
 
-### CGI | Consultant
+#### CGI | Consultant
 
-_Leading and overseeing UI development for payments team. Analysis, design and development of current and new react components. Working alongside DevOps engineers to setup CI/CD pipeline. Code reviews and mentoring junior developers to the team._
+_Leading and overseeing UI development for AWS payments pod. Analysis, design and development of current and new react components. Working alongside DevOps engineers to setup CI/CD pipeline. Code reviews and mentoring junior developers to the team._
 
 
-### Allianz | Senior Software Engineer
+#### Allianz | Senior Software Engineer
 
 _Worked with digital services team to build UI features, functionalities and capabilities using Angular. Collaborated with Backend team for the development of API. Performed peer to peer code reviews and developer testing to meet QA targets._
 
-### Freelance | Web Developer
+#### Freelance | Web Developer
 
 _Helped digital transformation of SMEs by providing various web/digital solutions. Worked closely with the clients to gather requirements and analysed there technical feasibility. Established hosting for each projects and ensured successful deployment for the clients._
 
 ---
 
-## Education
+### Education
 
-### University of Kerala - B Tech in Information Technology
+#### University of Kerala - B Tech in Information Technology
 
 ---
 
-## Interests
+### Interests
 
 Photography | Travelling  | Netflix
-
 
