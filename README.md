@@ -41,7 +41,8 @@ _I'm a passionate front end developer with 6+ years of professional experience b
 
 ## Education
 
-#### University of Kerala - B Tech in Information Technology
+#### University of Kerala
+##### B Tech in Information Technology (2011-2015)
 
 ---
 
