@@ -26,16 +26,16 @@ Passionate front end developer with 6+ years of professional experience building
 
 ### CGI | Consultant
 
-Leading and overseeing UI development of payments team. Analysis, design and development of current and new react components. Worked alongside DevOps engineers to setup CI/CD pipeline. Code reviews and mentoring junior developers to the team.
+_Leading and overseeing UI development for payments team. Analysis, design and development of current and new react components. Working alongside DevOps engineers to setup CI/CD pipeline. Code reviews and mentoring junior developers to the team._
 
 
 ### Allianz | Senior Software Engineer
 
-Worked with digital services team to build UI features, functionalities and capabilities using Angular. Collaborated with Backend team for the development of API. Performed peer to peer code reviews and developer testing to meet QA targets.
+_Worked with digital services team to build UI features, functionalities and capabilities using Angular. Collaborated with Backend team for the development of API. Performed peer to peer code reviews and developer testing to meet QA targets._
 
 ### Freelance | Web Developer
 
-Helped digital transformation of SMEs by providing various web/digital solutions. Worked closely with clients to gather requirements and analyze there technical feasibility. Negotiated with clients, hosting providers and vendors to keep projects on track. Established hosting for each projects and ensured successful deployment for the clients.
+_Helped digital transformation of SMEs by providing various web/digital solutions. Worked closely with the clients to gather requirements and analysed there technical feasibility. Established hosting for each projects and ensured successful deployment for the clients._
 
 ---
 
