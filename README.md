@@ -2,7 +2,7 @@
 ## Portfolio
 #### { Always up for a challenge }
 
-_I'm a passionate front end developer with 6+ years of professional experience building efficient and scalable web applications. Proven ability to work in fast paced start up and corporate environments. Fueled by passion, I constantly focus to excel and upskill in my work._
+_I'm a passionate JavaScript developer with 7+ years of professional experience building efficient and scalable web applications. Extensive experience working with front-end frameworks such as React and Angular, with demonstrated ability to design and implement complex frontend solutions. Fueled by passion, I constantly focus to excel and upskill in my work._
 
 ---
 
@@ -26,16 +26,16 @@ _I'm a passionate front end developer with 6+ years of professional experience b
 
 #### CGI | Consultant
 
-> Leading and overseeing UI development for AWS payments pod. Analyze, design and development of existing and new react components. Working alongside DevOps engineers to setup CI/CD pipeline. Code reviews and mentoring of junior developers for the team.
+> Led the UI development for HSBC Payments Enquiry project. Developed application from scratch, using React 16, Redux and Storybook components, and incorporated REST APIs for data consumption. Ensured optimal code quality and security by regularly implementing various scan tools, performing unit testing using Jest. Worked on optimizing website performance by using performance testing tools such as Lighthouse and Chrome DevTools. Worked closely with DevOps engineers to set up CI/CD pipeline and deploy application to AWS ECS instance.
 
 
 #### Allianz | Senior Software Engineer
 
-> Worked with digital services team to create UI features, functionalities and capabilities using Angular. Collaborated with Backend team for the development of API. Performed peer to peer code reviews and developer testing to meet QA targets.
+> Developed UI features, functionalities, and capabilities using Angular, ensuring smooth performance and user experience. Collaborated with designers to create style sheets using HTML and CSS (SCSS) that adhered to best practices for responsive design and accessibility. Developed responsive UIs as per UX designs and tested device compatibility using BrowserStack. Conducted unit testing using Karma and Jasmine to ensure high code quality and reduce bugs. Utilized web content management tools such as Adobe Experience Manager to maintain and update web content.
 
 #### Freelance | Web Developer
 
-> Helped digital transformation of SMEs by providing various web/digital solutions. Worked closely with the clients to gather requirements and to keep project on track. Established hosting for each projects and ensured successful deployment for the clients.
+> Helped digital transformation of SMEs by providing web/digital solutions. Collaborated closely with clients to gather requirements and ensure projects were on track, delivering solutions that met their specific needs. Developed features, functionalities, and capabilities using Bootstrap, jQuery, JavaScript, CodeIgniter, and MySQL. Established hosting for each project and ensured successful deployment for the client.
 
 ---
 
