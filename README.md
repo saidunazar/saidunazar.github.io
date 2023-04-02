@@ -14,7 +14,7 @@ _I'm a passionate JavaScript developer with 7+ years of professional experience 
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
   <img src='https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg' height='30' width='auto' alt="ts">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="30"/>
-  <img src="https://en.wikipedia.org/wiki/Redux_(JavaScript_library)#/media/File:Redux_Logo.png" alt="redux" width="auto" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" width="auto" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular" width="auto" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass" width="40" height="auto"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="npm" width="40" height="auto"/>
