@@ -19,8 +19,7 @@ _I'm a passionate JavaScript developer with 7+ years of professional experience 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass" width="40" height="auto"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="npm" width="40" height="auto"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node" width="40" height="auto"/>
-  <img src="https://en.wikipedia.org/wiki/Express.js#/media/File:Expressjs.png" alt="express" width="40" height="auto"/>
-  <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" alt="mongoDB" width="30" height="40"/>
+  <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" alt="mongoDB" width="40" height="40"/>
 </p>
 
 ---
