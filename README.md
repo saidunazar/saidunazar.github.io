@@ -19,7 +19,7 @@ _I'm a passionate JavaScript developer with 7+ years of professional experience 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass" width="40" height="auto"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="npm" width="40" height="auto"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node" width="40" height="auto"/>
-  <img src="https://en.wikipedia.org/wiki/MongoDB#/media/File:MongoDB_Logo.svg" alt="mongoDB" width="40" height="auto"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1920px-MongoDB_Logo.svg.png" alt="mongoDB" width="40" height="auto"/>
 </p>
 
 ---
